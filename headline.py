@@ -1,7 +1,7 @@
 #LSTM Model to generate Headlilnes using character based modelling.
 
 #Importing the libraries
-import numpy
+import numpy as np
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import Dropout
