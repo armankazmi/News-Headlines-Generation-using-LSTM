@@ -1,5 +1,5 @@
 #LSTM Model to generate Headlilnes using character based modelling.
-
+# author :- Arman Kazmi
 #Importing the libraries
 import numpy as np
 from keras.models import Sequential
